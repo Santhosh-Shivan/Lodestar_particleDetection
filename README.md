@@ -1,4 +1,4 @@
 # Lodestar_particleDetection
 
-### The multi_particle_LodeSTAR.ipynb is the main file.
+### Run the multi_particle_LodeSTAR.ipynb file.
 
